@@ -72,3 +72,9 @@ body{
     margin-bottom: 12%;
     padding: 5%
 }
+h3{
+    text-align: center;
+}
+p{
+    font-style: italic;
+}

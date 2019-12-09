@@ -12,3 +12,6 @@ body{
 .forms{
     margin-bottom: 20%;
 }
+#design{
+    display: none;
+}

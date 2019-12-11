@@ -4,6 +4,8 @@
 > Darolle Shizucane
 ### DESCRIPTION
 > This is a delani studio project copy 
+## Link
+https://shizukane.github.io/DELANI/
 #### LICENSE
 
 ## MIT License
